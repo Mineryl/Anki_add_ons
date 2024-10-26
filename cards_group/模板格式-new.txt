@@ -1,0 +1,11 @@
+011(2)writingA1
+
+1.
+Sentence: sentence1
+Word: word1
+Word: word2
+
+2.
+Sentence: sentence2
+Word: word3
+Word: word4
